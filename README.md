@@ -12,8 +12,7 @@ dataset/
 ........image2.png
 ........imagen.png
 ...classe_n/
-x```
-
+```
 
 # Extract dataset to features:
 ```
