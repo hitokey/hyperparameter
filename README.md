@@ -2,7 +2,7 @@
 ```
 python extract_features.py -d dataset/ -o features.h5
 ```
-#Train:
+# Train:
 ```
 python train.py -d features.h5 -m model.pb
 ```
